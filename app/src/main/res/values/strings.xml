@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TRENDe_Application</string>
+    <string name="location">Location</string>
+    <string name="category">Category</string>
+    <string name="username">Username</string>
+    <string name="psw">Password</string>
+    <string name="loginbtn">Login</string>
+    <string name="fgt">Forgot your password?</string>
+    <string name="dhacc">Dont\'t have an Account?</string>
+    <string name="sign">Sign up now</string>
+    <string name="Topic01">TG13 cactus</string>
+    <string name="Price01">Rs. 800.00</string>
+    <string name="topic02">TG12 Cactus Plant</string>
+    <string name="price02">Rs. 650.00</string>
+    <string name="topic03">Orchid-Vendar</string>
+    <string name="price03">Rs. 2200.00</string>
+    <string name="price04">Rs. 8500.00</string>
+    <string name="sellerlogin">Loging Page</string>
+    <string name="topic04">Bonsai Tree</string>
+    <string name="title_activity_login">login</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
